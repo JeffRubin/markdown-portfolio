@@ -1,1 +1,4 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+Let's start at the *very* beginning  
+A *very* good place to start  
+When you read you begin with **A-be-see**  
+When you sing you begin with **do-re-m**  
