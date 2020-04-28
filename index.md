@@ -20,7 +20,10 @@ layout: default
 
 {% include 05-emphasis.md %}
 
-
 <br>
 
 {% include 06-table.md %}
+
+<br>
+
+{% include 07-emoji.md %}
